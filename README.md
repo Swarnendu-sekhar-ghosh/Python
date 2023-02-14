@@ -4,6 +4,6 @@ This is a repository consisting of all tutorial codes of "The Complete Python Bo
 
 Python is one of the demanding programming languages in recent times. And working in the field of machine learning and artificial intelligence do require the knowledge about Python to deploy complex AI models in the field.
 
-This course did give me an idepth idea about how to use python in area of interest.
+This course did give me an idepth idea about how to use python in my area of interest.
 
 
